@@ -7,6 +7,26 @@
       <option name="url" value="https://repo.maven.apache.org/maven2" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="ics-maven-rnd-snapshots" />
+      <option name="name" value="ICS-Maven-RnD-Snapshots" />
+      <option name="url" value="https://nexusl1-emea.gemalto.com/content/repositories/ICS-Maven-RnD-Snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ics-maven-rnd" />
+      <option name="name" value="ICS-Maven-RnD" />
+      <option name="url" value="https://nexusl1-emea.gemalto.com/content/groups/ICS-Maven-RnD/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ics-maven-dc-releases" />
+      <option name="name" value="ICS-Maven-DC-Releases" />
+      <option name="url" value="https://nexusl1-emea.gemalto.com/content/repositories/ICS-Maven-DC-Releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ics-public-binary-repositories" />
+      <option name="name" value="Public_Binary_Proxies" />
+      <option name="url" value="https://nexusl1-emea.gemalto.com/content/groups/public-binary-repositories/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Maven Central repository" />
       <option name="url" value="https://repo1.maven.org/maven2" />
@@ -15,6 +35,26 @@
       <option name="id" value="jboss.community" />
       <option name="name" value="JBoss Community repository" />
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ics-maven-rnd-releases" />
+      <option name="name" value="ICS-Maven-RnD-Releases" />
+      <option name="url" value="https://nexusl1-emea.gemalto.com/content/repositories/ICS-Maven-RnD-Releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ics-public-repositories" />
+      <option name="name" value="Public_Proxies" />
+      <option name="url" value="https://nexusl1-emea.gemalto.com/content/groups/public-maven-repositories/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ics-maven-dc" />
+      <option name="name" value="ICS-Maven-DC" />
+      <option name="url" value="https://nexusl1-emea.gemalto.com/content/groups/ICS-Maven-DC/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ics-maven-dc-snapshots" />
+      <option name="name" value="ICS-Maven-DC-Snapshots" />
+      <option name="url" value="https://nexusl1-emea.gemalto.com/content/repositories/ICS-Maven-DC-Snapshots/" />
     </remote-repository>
   </component>
 </project>
